@@ -1,0 +1,58 @@
+
+.card {
+    background: rgb(227,231,63);
+     background: linear-gradient(to right, rgba(227,231,63,0.9809173669467787) 0%, rgba(125,125,125,1) 73%);
+     background-size:cover;
+
+}    
+h4{
+    background-color:black;
+    text-align:center;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    padding:10px;
+    font-size:5px;
+}
+.bg-image{
+    background-color:lightblue;
+    background-size:cover;
+}
+
+.card-title{
+    
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+   font-size:20px;
+}
+
+p{
+     text-align:center;
+    color:rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
+.weathe{
+    text-align:center;
+    
+}
+.weathe-btn{
+    border: 2px solid white;
+    background-color:transparent;
+    height:80px;
+    width:90px;
+    padding:10px;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:15px;
+}
+
+h1{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:30px;
+    color:rgb(255, 3, 3);
+    text-decoration: 2px solid blue underline;
+}
+
+
